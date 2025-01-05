@@ -22,7 +22,7 @@ Here are some of the technologies and tools I work with:
 ## Projects
 
 ### [Content Generation Chatbot](https://github.com/Syed-Hasnain-Askari/Project1)
-![Alt text](URL_of_the_image)
+![chatbotSS](screencapture-localhost-8501-2025-01-05-21_45_53.png)
 
 
 ### [Project 2 Name](https://github.com/Syed-Hasnain-Askari/Project2)
