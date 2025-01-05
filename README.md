@@ -21,8 +21,8 @@ Here are some of the technologies and tools I work with:
 
 ## Projects
 
-### [Project 1 Name](https://github.com/Syed-Hasnain-Askari/Project1)
-Brief description of what the project is about and what technologies were used.
+### [Content Generation Chatbot](https://github.com/Syed-Hasnain-Askari/Project1)
+
 
 ### [Project 2 Name](https://github.com/Syed-Hasnain-Askari/Project2)
 Brief description of what the project is about and what technologies were used.
