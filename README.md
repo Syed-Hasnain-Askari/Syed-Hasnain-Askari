@@ -25,8 +25,8 @@ Here are some of the technologies and tools I work with:
 ![chatbotSS](screencapture-localhost-8501-2025-01-05-21_45_53.png)
 
 
-### [Project 2 Name](https://github.com/Syed-Hasnain-Askari/Project2)
-Brief description of what the project is about and what technologies were used.
+### [AI Chat Bubble](https://github.com/Syed-Hasnain-Askari/ai-chatbubble/tree/master)
+![chatbotSS](https://raw.githubusercontent.com/Syed-Hasnain-Askari/ai-chatbubble/refs/heads/master/Screenshot%202025-02-15%20020223.png)
 
 ## GitHub Stats
 
