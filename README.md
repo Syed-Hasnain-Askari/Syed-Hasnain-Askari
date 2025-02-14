@@ -6,9 +6,9 @@
 
 I'm a passionate software developer with a strong interest in building innovative solutions and contributing to open-source projects. I love working with various technologies and continuously improving my skills.
 
-- 🌱 I’m currently learning **[your current learning topic]**
-- 💬 Ask me about **[your favorite topics]**
-- 📫 How to reach me: **[your email]**
+- 🌱 I’m currently learning **Generative AI**
+- 💬 Ask me about **Full Stack Developemt**
+- 📫 How to reach me: **hasnainaskari32@gmail.com**
 - 🌐 Visit my [website](https://yourwebsite.com) for more information
 
 ## Skills
